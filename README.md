@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on overcome imposter syndrome;
-- 🌱 I’m currently learning JAMStack && ML;
+- 🌱 I’m currently learning everything;
 - 👯 I’m looking to collaborate on interesting projects;
-- 🤔 I’m looking for help with "how to build a 3d portfolio site";
+- 🤔 I’m looking for help with ;
 - 💬 Ask me about anything;
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I'm a self-taught developer and I love out-door activities;
