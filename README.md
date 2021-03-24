@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on overcome imposter syndrome;
-- 🌱 I’m currently learning everything;
+- 🌱 I’m currently learning Next.js && Tailwind && Typescript;
 - 👯 I’m looking to collaborate on interesting projects;
 - 🤔 I’m looking for help with ;
-- 💬 Ask me about anything;
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I'm a self-taught developer and I love out-door activities;
+- 💬 Ask me about  web development && data structures && Algorithms;
+- 📫 How to reach me: 
+- ⚡ Fun fact: I'm a self-taught developer and I have 2 daughters;
 
