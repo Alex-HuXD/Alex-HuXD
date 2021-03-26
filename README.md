@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on overcome imposter syndrome;
-- 🌱 I’m currently learning Next.js && Tailwind && Typescript;
+- 🌱 I’m currently learning back-end development;
 - 👯 I’m looking to collaborate on interesting projects;
 - 🤔 I’m looking for help with ;
 - 💬 Ask me about  web development && data structures && Algorithms;
