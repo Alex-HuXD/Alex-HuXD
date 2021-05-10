@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interesting projects;
 - 🤔 I’m looking for help with ;
 - 💬 Ask me about  web development && data structures && Algorithms;
-- 📫 How to reach me: xhu0709@yahoo.com
-- ⚡ Fun fact: I'm a self-taught developer and I have 2 daughters;
+- 📫 How to reach me: alexhudevs@gmail.com
+- ⚡ Fun fact: I have 2 daughters ;
 
