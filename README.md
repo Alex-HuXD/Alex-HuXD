@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alexhudevs@gmail.com
 - ⚡ Fun fact: I have 2 daughters ;
 
+## 🔧 Technologies & Tools
