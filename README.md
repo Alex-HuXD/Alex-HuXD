@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Lang-JavaScript-blue)
+![](https://img.shields.io/badge/Lang-Python-blue)
+![](https://img.shields.io/badge/Lang-Java-blue)
+![](https://img.shields.io/badge/Lang-SQL-blue)
+![](https://img.shields.io/badge/Tool-React/Redux-blue)
+![](https://img.shields.io/badge/Tool-Gatsby-blue)
+![](https://img.shields.io/badge/Tool-Next-blue)
+![](https://img.shields.io/badge/Tool-Django-blue)
