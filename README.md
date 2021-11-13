@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interesting projects;
 - 🤔 I’m looking for help with ;
 - 💬 Ask me about  web development && data structures && Algorithms;
-- 📫 How to reach me: alexhudevs@gmail.com
+- 📫 How to reach me: HuXDev@pm.me
 - ⚡ Fun fact: I have 2 daughters ;
 
 ## 🔧 Technologies & Tools
