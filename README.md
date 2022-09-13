@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on overcome imposter syndrome;
-- 🌱 I’m currently learning JAVA & Spring;
+- 🌱 I’m currently learning Angular & AWS;
 - 👯 I’m looking to collaborate on interesting projects;
 - 🤔 I’m looking for help with ;
 - 💬 Ask me about  web development && data structures && Algorithms;
