@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Lang-JavaScript-blue)
+![](https://img.shields.io/badge/Lang-JavaScript-blue?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/Lang-Python-blue)
 ![](https://img.shields.io/badge/Lang-Java-blue)
 ![](https://img.shields.io/badge/Lang-SQL-blue)
