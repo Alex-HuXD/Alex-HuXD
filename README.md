@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Lang-Javascript-blue?style=plastic&logo=javascript)
-![](https://img.shields.io/badge/Lang-Python-blue)
-![](https://img.shields.io/badge/Lang-Java-blue)
-![](https://img.shields.io/badge/Lang-SQL-blue)
-![](https://img.shields.io/badge/Tool-React/Redux-important)
-![](https://img.shields.io/badge/Tool-Gatsby-important)
-![](https://img.shields.io/badge/Tool-Next-important)
+![](https://img.shields.io/badge/Lang-Python-blue?style=plastic&logo=python)
+![](https://img.shields.io/badge/Lang-Java-blue?style=plastic&logo=java)
+![](https://img.shields.io/badge/Lang-SQL-blue?style=plastic&logo=java)
+![](https://img.shields.io/badge/Framework-React/Redux-important?style=plastic&logo=react)
+![](https://img.shields.io/badge/Framework-Next-important?style=plastic&logo=nextjs)
 ![](https://img.shields.io/badge/Tool-Node/Express-orange)
 ![](https://img.shields.io/badge/Tool-Django-orange)
 ![](https://img.shields.io/badge/DBMS-PostgreSQL-success)
