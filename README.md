@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Lang-SQL-blue?style=plastic&logo=SQL)
 ![](https://img.shields.io/badge/Framework-React/Redux-important?style=plastic&logo=react)
 ![](https://img.shields.io/badge/Framework-Next-important?style=plastic&logo=next)
-![](https://img.shields.io/badge/Tool-Node/Express-orange?style=plastic&logo=nodejs)
+![](https://img.shields.io/badge/Tool-Node/Express-orange?style=plastic&logo=node)
 ![](https://img.shields.io/badge/Tool-Django-orange)
 ![](https://img.shields.io/badge/DBMS-PostgreSQL-success)
 ![](https://img.shields.io/badge/DBMS-MySQL-success)
